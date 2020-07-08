@@ -126,7 +126,7 @@ class _SignUpState extends State<SignUp> {
                 child: RaisedButton(
                   elevation: 5.0,
                   onPressed: () {
-                    print("otp sent to your phone");
+                    print("otp sent to your phone number");
                   },
                   padding: EdgeInsets.all(10.0),
                   shape: RoundedRectangleBorder(
